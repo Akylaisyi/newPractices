@@ -6,6 +6,8 @@ public class runner {
         //System.out.println(mac.memory);
         System.out.println(mac.OS);
         System.out.println(mac.toString());
+        System.out.println(mac);
+
     }
 }
 
