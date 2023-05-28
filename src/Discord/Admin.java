@@ -15,7 +15,9 @@ public class Admin extends DiscordUser{
         Admin admin=new Admin("QA Engineer","Akylai", 148569);
         System.out.println(admin.createdDate);
         admin.senMessage();
-
+        System.out.println(admin);
+         System.out.println(admin);
+         System.out.println(admin);
 
     }
 
