@@ -8,5 +8,6 @@ public class Mac extends Computer {
         System.out.println(mac.memory);
         System.out.println(mac.OS);
         System.out.println(mac.toString());
+        //do we need to add Interface as well, GH
     }
 }
