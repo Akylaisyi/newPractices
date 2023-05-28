@@ -23,4 +23,5 @@ public class DiscordUser {
     public String toString(){
         return name+"#"+id+"\nRoles: "+role+"\nAccount Created: "+createdDate;
     }
+    // why did you use this format?
 }
