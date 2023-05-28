@@ -6,7 +6,7 @@ public class Computer {
     String brand;
     private boolean hasWifi;
 
-    @Override
+    @Override // do we need to have Constructor
     public String toString() {
         return "Computer{" +
                 "OS='" + OS + '\'' +
